@@ -1,0 +1,55 @@
+{
+  "@@locale" : "hr",
+  "homeTitle": "Dobro došli u Journalé!",
+  "addJournalEntry" : "Dodaj unos u dnevnik",
+  "quotes": "Citati",
+  "journalEntries": "Unosi u dnevnik",
+  "darkMode": "Tamni način",
+  "language": "Jezik",
+  "about": "O Journalé",
+  "signOut": "Odjava",
+
+  "email": "Email",
+  "password": "Zaporka",
+  "displayName": "Ime",
+
+  "searchJournalEntriesLabel" : "Pretraži unose u dnevnik...",
+  "journalEntryTitle": "Naslov unosa u dnevnik",
+  "journalEntryText": "Tekst unosa u dnevnik",
+  "giveAffirmation": "Daj mi afirmaciju",
+  "affirmationAction" : "Zatvori",
+
+
+  "signIn" : "Prijava",
+  "registration": "Registracija",
+  "register": "Registriraj",
+
+  "signInMissingInputs": "Provjerite vaše unose!",
+  "signInSuccess": "Uspješna prijava.",
+  "signInErrorPassword": "Neispravna zaporka.",
+  "signInUserNotExists": "Keispravan korisnički račun.",
+  "signInInvalidEmail": "Neispravan email.",
+  "signInTitle": "Prijava u Journalé",
+  "registerTitle": "Kreiranje Journalé računa",
+  "registerSuccess": "Uspješna registracija.",
+  "signUpWeakPassword" : "Slaba zaporka!",
+  "emailAlreadyUsed": "Email je već registriran na drugom računu.",
+
+  "quotesAddToFavs": "Dodaj u favorite",
+  "quotesAddToHome": "Dodaj na Home ekran",
+  "quotesRemoveFav": "Ukloni iz favorita",
+  "quoteSet": "Izreka na Home ekranu ažurirana.",
+
+
+  "saveChanges" : "Spremi promjene",
+  "editJournalEntry": "Uređivanje unosa u dnevnik",
+  "createJournalEntry": "Spremi unos u dnevnik",
+  "favourites": "Favoriti",
+
+  "noFavEntries": "Nemate omiljene unose u dnevnik.",
+  "noFavQuotes": "Nemate omiljene citate.",
+  "noEntries": "Nemate unose u dnevnik."
+
+
+
+}

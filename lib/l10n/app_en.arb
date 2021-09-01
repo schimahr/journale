@@ -1,0 +1,51 @@
+{
+  "@@locale" : "en",
+  "homeTitle": "Welcome to Journalé!",
+  "addJournalEntry" : "Add journal entry",
+  "quotes": "Quotes",
+  "journalEntries": "Journal entries",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "about": "About Journalé",
+  "signOut": "Sign out",
+
+  "email": "Email",
+  "password": "Password",
+  "displayName": "Name",
+
+  "searchJournalEntriesLabel" : "Search journal entries...",
+  "journalEntryTitle": "Journal entry title",
+  "journalEntryText": "Journal entry text",
+  "giveAffirmation": "Give me affirmation",
+  "affirmationAction" : "Close",
+
+
+  "signIn" : "Sign in",
+  "registration": "Registration",
+  "register": "Register",
+
+  "signInMissingInputs": "Check your inputs!",
+  "signInSuccess": "Sign in successful.",
+  "signInErrorPassword": "Incorrect password.",
+  "signInUserNotExists": "User does not exist.",
+  "signInInvalidEmail": "Invalid email.",
+  "signInTitle": "Sign in to Journalé",
+  "registerTitle": "Create Journalé account",
+  "registerSuccess": "Registration successful. ",
+  "signUpWeakPassword" : "Weak password!",
+  "emailAlreadyUsed": "Email already registered to another account.",
+
+  "quotesAddToFavs": "Add to favourites",
+  "quotesAddToHome": "Add to Home screen",
+  "quotesRemoveFav": "Remove from favourites",
+  "quoteSet": "Home screen quote updated.",
+
+  "saveChanges" : "Save changes",
+  "editJournalEntry": "Edit Journal entry",
+  "createJournalEntry": "Save journal entry",
+  "favourites": "Favourites",
+
+  "noFavEntries": "You don't have favourite journal entries.",
+  "noFavQuotes": "You don't have favourite quotes.",
+  "noEntries": "You don't have journal entries."
+}
